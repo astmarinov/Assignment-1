@@ -1,0 +1,19 @@
+name: testEnv
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - gdal
+  - fiona
+  - rasterio
+  - spyder-kernels
+  - flask
+  - flask-wtf
+  - pycountry
+  - email_validator
+  - flask-sqlalchemy
+  - flask-bcrypt
+  - flask-login
+  - watermark
+prefix: C:\Users\astma\anaconda3\envs\testEnv

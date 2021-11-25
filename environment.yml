@@ -4,16 +4,7 @@ channels:
   - defaults
 dependencies:
   - python=3.9
-  - gdal
-  - fiona
-  - rasterio
-  - spyder-kernels
-  - flask
-  - flask-wtf
-  - pycountry
-  - email_validator
-  - flask-sqlalchemy
-  - flask-bcrypt
-  - flask-login
-  - watermark
+  - numpy
+  - pandas
+  - scikit-learn
 prefix: C:\Users\astma\anaconda3\envs\testEnv

@@ -1,1 +1,2 @@
 # Assignment-1
+This Jupyter Notebook is a part of Assignment in the CloudEARTHi project student workshop. The assignment aims to provide a simple demonstration how AI can be used to predict Air Pollution Index using meteorological data and specific time of the year. This notebook should not be considered as full functional application, correct class prediction algorithm or an example for a well-organized AI, but rather as a demo tailored to education of non-specialists. This notebook should be used together with the assignment description file.
